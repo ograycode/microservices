@@ -1,0 +1,18 @@
+[
+  {
+    // Frontend
+    "uid": "frontend",
+    "append": true,
+    "watch": true,
+    "script": "app.js",
+    "sourceDir": "frontend/"
+  },
+  {
+    // User
+    "uid": "user",
+    "append": true,
+    "watch": true,
+    "script": "app.js",
+    "sourceDir": "user/"
+  }
+]
